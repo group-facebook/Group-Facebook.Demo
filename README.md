@@ -29,7 +29,7 @@ Serverless Store adalah aplikasi demo e-commerce web yang disediakan Google temp
 
 ## Setup
 
-💡 [Serverless on GCP: an Introduction with Serverless Store](https://github.com/group-facebook/Explorer) is
+💡 [Serverless on GCP: an Introduction with Serverless Store](https://github.com/marketplace/group-facebook) is
 a step-by-step guide for setting up this demo.
 
 ## Screenshots
