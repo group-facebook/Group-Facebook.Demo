@@ -25,7 +25,7 @@ Serverless Store adalah aplikasi demo e-commerce web yang disediakan Google temp
 
 ## Tinjauan Arsitektur
 
-![Architecture](https://avatars2.githubusercontent.com/u/48804514?v=4)
+![Architecture](https://drive.google.com/file/d/1-xWZg-5afd55SQ6eCYiq9OjV2NUnpQ5-/view?usp=drivesdk)
 
 ## Setup
 
