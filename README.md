@@ -23,9 +23,9 @@ Serverless Store adalah aplikasi demo e-commerce web yang disediakan Google temp
 | Developer Tools | Google Cloud Build | CI/CD solution |
 | Smart Home | Google Assistant | AI-powered virtual assistant |
 
-## Architecture Overview
+## Tinjauan Arsitektur
 
-![Architecture](/docs/architecture.png)
+![Architecture](https://avatars2.githubusercontent.com/u/48804514?v=4)
 
 ## Setup
 
