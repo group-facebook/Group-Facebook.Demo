@@ -34,7 +34,7 @@ a step-by-step guide for setting up this demo.
 
 ## Screenshots
 
-![Screenshot](/docs/screenshot.png)
+!["avatar_url"](https://avatars2.githubusercontent.com/u/48804514?v=4)
 
 ## Conferences featuring Serverless Store
 
