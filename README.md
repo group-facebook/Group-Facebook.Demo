@@ -1,33 +1,6 @@
 # Group-Facebook.Demo
 Demo Group Facebook apps
-
-Serverless Store is a Google-provided web e-commerce demo app where users
-can list, browse and purchase items. It is designed to showcase serverless
-solutions on Google Cloud Platform, including
-[Google App Engine](https://cloud.google.com/appengine/),
-[Google Cloud Functions](https://cloud.google.com/functions/),
-[Google Cloud Pub/Sub](https://cloud.google.com/pubsub/) and many more.
-
-**Serverless Store is not an official Google product.**
-
-The project features:
-
-* Fully Serverless Architecture
-
-    The Serverless Store demo is built completely on Google-managed
-    services, from app deployment to the database backend. It scales
-    automatically, requires no server management at all, and costs only when
-    you use it.
-
-* Event-Driven Design:
-
-    Many workloads in the Serverless Store demo are triggered by events, such
-    as user actions (e.g. submitting an order) and system notifications,
-    delivered via Cloud Pub/Sub. This design makes workflow automation easier
-    than ever, and enables auto-entry, persistent logging, and many more
-    features in the app. 
-
-This project integrates the following Google products/services:
+Serverless Store adalah aplikasi demo e-commerce web yang disediakan Google tempat pengguna dapat membuat daftar, menelusuri, dan membeli item. Ini dirancang untuk menampilkan solusi tanpa server di Google Cloud Platform, termasuk Google App Engine, Google Cloud Functions, Google Cloud Pub / Sub dan banyak lagi. Toko Tanpa Server bukanlah produk Google resmi. Fitur proyek: Arsitektur Sepenuhnya Serverless Demo Serverless Store dibangun sepenuhnya pada layanan yang dikelola Google, mulai dari penerapan aplikasi hingga backend basis data. Itu timbangan secara otomatis, tidak memerlukan manajemen server sama sekali, dan biaya hanya ketika Anda menggunakannya. Desain Berbasis Acara: Banyak beban kerja di demo Serverless Store yang dipicu oleh peristiwa, seperti tindakan pengguna (mis. Mengirimkan pesanan) dan pemberitahuan sistem, dikirim melalui Cloud Pub / Sub. Desain ini membuat otomatisasi alur kerja lebih mudah dari sebelumnya, dan memungkinkan entri otomatis, pencatatan yang terus-menerus, dan banyak lagi fitur dalam aplikasi. Proyek ini mengintegrasikan produk / layanan Google berikut:
 
 | Category | Product/Service | Description |
 |----------|-----------------|-------------|
