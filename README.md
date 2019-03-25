@@ -1,10 +1,12 @@
 # Group-Facebook.Demo
 Demo Group Facebook apps
 
-# LICENSE
+# KATEGORI
+
 KATEGORI | FUNGTION | TENTANG | URL
 ------------ |------------- | ------------- | -------------
 License | API | Ketentuan & Layanan | [License](https://github.com/group-facebook/Group-Facebook.Demo/blob/master/LICENSE) 
+DOCK | Package | Apps | - | 
 
 
 
