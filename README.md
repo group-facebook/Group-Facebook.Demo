@@ -17,9 +17,9 @@ Serverless Store adalah aplikasi demo e-commerce web yang disediakan Google temp
 
 **AVATAR**
 
-AVATAR | ID
+AVATAR | SCREANSHOOT
 ---------------- | ----------------
-![Avatar](https://github.com/group-facebook/Group-Facebook.Demo/blob/master/Dock/Avatar_url/Screenshot_2019-03-23-22-47-42.png) | AKTIF
+![Avatar](https://github.com/group-facebook/Group-Facebook.Demo/blob/master/Dock/Avatar_url/Screenshot_2019-03-23-22-47-42.png) | ![Aktif](https://github.com/group-facebook/Group-Facebook.Demo/blob/master/Dock/Avatar_url/Screenshot_2019-03-23-22-48-07.png) 
 
 
 | Category | Product/Service | Description |
