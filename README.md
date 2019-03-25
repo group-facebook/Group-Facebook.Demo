@@ -6,7 +6,7 @@ Demo Group Facebook apps
 KATEGORI | FUNGTION | TENTANG | URL
 ------------ |------------- | ------------- | -------------
 License | API | Ketentuan & Layanan | [License](https://github.com/group-facebook/Group-Facebook.Demo/blob/master/LICENSE) 
-DOCK | Package | Apps | - | 
+DOCK | Package | Apps | [Dock](https://github.com/group-facebook/Group-Facebook.Demo/tree/master/Dock) 
 
 
 
